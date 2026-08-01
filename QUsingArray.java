@@ -1,6 +1,7 @@
 //Queue implementation using array
 
 public class QUsingArray{
+    
     static class Queue{
         static int arr[];
         static int size;
