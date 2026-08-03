@@ -29,6 +29,7 @@ public class QUsingArray{
 
         //Dequeue
         public static int remove(){
+            
             if(isEmpty()){
                 System.out.println("Empty queue");
                 return -1;
