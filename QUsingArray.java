@@ -3,6 +3,7 @@
 public class QUsingArray{
     
     static class Queue{
+        
         static int arr[];
         static int size;
         static int rear = -1;
