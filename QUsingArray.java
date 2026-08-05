@@ -62,6 +62,7 @@ public class QUsingArray{
         q.add(3);
 
         while(!q.isEmpty()){
+            
             System.out.println(q.peek());
             q.remove();
         }
