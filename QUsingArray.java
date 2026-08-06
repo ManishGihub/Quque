@@ -44,6 +44,7 @@ public class QUsingArray{
             return front;
         }
 
+        //Front
         public static int peek(){
             if(isEmpty()){
                 System.out.println("Empty queue");
