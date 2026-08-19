@@ -358,6 +358,6 @@ Give it a **star ⭐** and feel free to explore, improve, and experiment with th
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Manish**
 
 > Learning • Building • Improving 🚀
